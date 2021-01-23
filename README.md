@@ -11,6 +11,6 @@ Saurav Dhyani
 Discussed in #bcopendiscussion
 
 # Recording Link
-
+Youtube Recording - https://youtu.be/oLJXBVfaSyA
 
 # Refrence Article
